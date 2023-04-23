@@ -1,0 +1,21 @@
+- Artemis explains some history to us:
+	- Gull was falling apart around 300 years ago, they were messing with magic they weren't supposed to
+	- The Winterglow Accords: Lumina, Alador (youngest bro), Alric (middle bro)
+		- "No nation may use hexstone for the creation of military vehicles or arms"
+		- An agreement between Zavarre, Ganmion, and Cistra
+	- Up until that point of tension, Lede had been trying to sow discord
+		- Lede was trying to push into the main citadel of Cistra, and as a result, the entire citadel was spirited away somewhere (nobody knows)
+- Looted things from Cistran vault:
+	- Captain Fae - 3 sealed books
+	- Balerion - 3 sealed books & 3 sealed scrolls
+	- Samira - 2 sealed books
+	- Books closed with Arcane Lock
+- The altar wth the 4 stone slots, 4 hexstones, a lever, and 2 mirror portals: black & silver portals
+	- Black portal: prison area Onyx 3 (according to Artemis, we don't want to go there)
+	- Silver portal: researcher portal back to Cistra
+- COMBAT: Slaads / other smaller fiends charge through the door to the vault
+- We pull out the red hexstone from Artemis the rabbit construct's chassis and activate the silver portal. The mirror wobbles as we activate it
+- Oathkeeper & Balerion stay behind. Samira, Senik, Sarfir, Aisling go through the portal into a stuffy room with low, dim blue light
+- The rabbit Artemis requests we seal the Cistran chamber after learning of the fate of Cistra.
+	- Silver mirror: researchers
+	- Onyx mirror: Onyx 3 prison. Skeletal remains of prisoners and missing hexstone. A foul being that temporarily turned us against each other. A skeletal juggernaut fight

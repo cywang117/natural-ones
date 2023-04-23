@@ -1,0 +1,8 @@
+- We head back to Ganmion to deliver the boar meat shipment
+- Guards at the door tell us about the tension between Lede & Ganmion (which we've heard before and was caused by the fighting in Kolm)
+- Vespor's Turn celebrations. Tomorrow will be the 1st of Vespor. Queen is hosting a Winter Tournament
+- We return the boar meat to Oran
+- Oran tells us about the Shadowhand, the underground of Ganmion. Tiered system:
+	- Low tier: Brownfin Gang & The Grinders
+	- Fringekeep
+	- Main people of the Shadowhand family

@@ -1,0 +1,26 @@
+- Morning of 25th Ignir
+- We wake up refreshed and press onwards. 
+	- Investigation -- Ulduvaran camp. 
+	- Rotting pieces of fruit, Tanlen's survival senses tell us that the rotting fruit probably don't belong to the hobgoblins
+	- 100ft out down the path, some fallen logs that look like they've been placed. A hole hidden under one of the logs, a chest 2ft x 1ft in the hole. Finished oak bound by iron. Inscription: *"Property of HK"*. Contents:
+		- 400g
+		- Small bag of gems, worth 150g total
+		- Vial of yellow liquid moving on its own with a tint of black (Identify: Potion of Speed)
+- West: narrow mountain pass
+- North: steep hill path with switchbacks
+	- Small coniferous grove at top of hill.
+	- Northward from hill: evergreen bushes, small clearing in center of grove northward.
+	- Clearing: people with the Lu'hai guild markings - researchers
+		- Hejj the female tabaxi, Geldman the male dwarf, 2 gnomes Hedlen (F) & Rodney (M)
+		- They saw the hobgoblins marching west a couple days ago
+- The Lu'hai researchers are here researching some ruins northward at a cliff face, with a giant chunk of it blasted out. They're stuck at a large arched stone door -- Gullen or Cistran in origin perhaps. The Cistran amulet opens the door. Enter into a chamber. In the center, a large black flat slate chest with glowing bands on it. Loot from this "Cistran cache":
+	- 100p, 900g
+	- Highly polished two-handed axe, head very round, runic inlays (+1 Greataxe Cistran style)
+	- Large wand - made out of 3 wand shafts braided around one another. Flourished tip (Wand of magic missile)
+	- Large refined hexstone
+	- Shirt of interlnked chain with runes on collar and pauldrons (+1 chainmail)
+	- Curved dagger with heavy handle and runic inscriptions upon the blade, tied to a very sturdy rope (+1 rope dart)
+- Northeast: manicured dirt path
+	- Noble house may have manicured the path. May be near the Herald's Nest Forest. Smell of a large beast nearby (excrement, musk)
+	- Fight with giant boars and harpies
+- Up the path further, a temple after some trekking. This is Tanlen's trial. A plaque which Tanlen touches and the chamber locks behind us and starts shaking.

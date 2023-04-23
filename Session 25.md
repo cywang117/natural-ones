@@ -1,0 +1,33 @@
+## Recap
+- Hiking in Crest Mountains to track down boar meat shipment
+- Attack some hobgoblins who are hunting a wyvern?
+- At nighttime, Oathkeeper, Sarfir, & Tanlen went hunting and took down another bison
+
+---
+- As we're butchering bison and setting up camp again, some campfire glow coming out of cliff face in distance
+	- Oathkeeper investigates in panther druid form and invisible
+	- It's a cave entrance 10 ft wide & tall, cave bends 15 feet in, around the corner are some bodies in bedrolls - these are hobgoblins
+	- Down below, the rest of the party decide to follow Oathkeeper as he's been gone awhile
+	- Tanlen intimidates the hobgoblins and they answer some questions:
+		- They're here to hunt a green wyvern (going's been tough)
+		- Part of the group of Captain Usgold
+		- Southern end of the group
+		- The wyvern hunting is part of a mission the Uldevar go on, they cannot return until success
+	- Oathkeeper kills each of the hobgoblins in turn with fire as revenge
+	- Sarfir & Tanlen go out to gather firewood for a funeral pyre
+- Samira, Senik, and Balerion get netted and dragged away by hobgoblins on wolves
+	- Dragged in a wide circle 
+	- Volleys of arrows being shot at Oathkeeper, Sarfir, Tanlen
+	- Brass horn coming from the west
+	- Oathkeeper, Sarfir, Tanlen come upon the arrow shooters
+	- Samira, Senik, Balerion free themselves from the rope and fight against the wolf riders
+	- Samira gets knocked out and dragged away by 2 hobgoblins, unconscious, and dies
+- Samira is resurrected by a mysterious patron - a purple-red sigil of a hulking figure over a set of scales, with a runic pattern around. Sigil branded lightly on her hand, a purple fleck in her left eye
+	- New song in the back of songbook in handwriting different than mine
+		- "The Balance" 16 measures on the right page
+		- Left side dedication: dedicated to:
+			- Harthic Stormgrit
+			- Ramona Vigil
+			- Brell Gorefist
+			- (3 more empty dots)
+	- The song is the same as the one Samira performed at the Mountaintop Inn (which was new and well-performed, and ended up breaking 2 strings)
