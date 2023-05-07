@@ -1,0 +1,29 @@
+
+- As we pass through town on the way back to Mountaintop Inn for BRAWL drinking contest, we hear about Weldor's farm's crop getting ruined. Everything was wilted as if it hadn't been taken care of for a few years, sabotage suspected
+- Vespor's Weave - elephant ear like confection, sold with a variety of toppings
+- BRAWL contest vs Hadoko Five (hailing from Fort Hadoko)
+	- Svalia
+		- Halfling with corset, ginger red hair, loves the attention she's getting
+		- Versus Oathkeeper. Svalia wins
+	- Garth Forgeborn
+		- Man that just got off work, soot & stubble on face, big arms, work apron
+		- Versus Samira, Samira wins
+	- Xanthea Shadowmoon
+		- Tiefling with cloak, meek
+		- Versus Senik, Senik wins
+	- Lief Silverbeard 
+		- Shorter, elderly dwarf wearing nice chainmail he's obviously shined, product in what's left of hair, slicked back
+		- Versus Sarfir, Lief wins
+	- Eyra Snowsong
+		- Blank faced elf, maybe getting her game face on
+		- Versus Balerion, Balerion
+- Balerion disappears with Svalia for the night then comes back later after we meet Severn Crowhelm who asks our help in righting a wrong
+	- We find it's related to the caged hobgoblins that came with the wyvern cart
+	- The Church took credit for the wyvern kill from the hobgoblins
+- Sibling entity of the Church of Lumos, the Lightspire Paladins, protects the Eastern Coast, based out of Fort Airn
+	- Church of Lumos is going a direction that the Lightspare Paladins don't like due to money
+- While we're discussing the request from Severn, Dorian Laronge appears behind us. He already paid our first 2000g of our debt.
+- We agree to help Severn on his quest. Next morning.
+- We show Marek the sealed book, and the dialect within is a Gullian ancient dialect. A dwarf in Kas'moggen may be able to read the dialect.
+- Watchers tell us that Simon's assistant Marion wasn't at Simon's funeral. Marion hasn't been herself -- yelling at workers and such. She's at the Sliger Company headquarters in Ganmion, we should visit her to see what's going on.
+- The necromancer from Onyx 3 that we let go is named Heronia Zull. 100 years ago she went by Blightbringer Voth. Oathkeeper recognizes this name.
