@@ -1,0 +1,8 @@
+- Shamshir of House Pak(?)-Gorehask 5th unit on the Lumos side (?), compatriot of Severn
+	- Heard sounds of battle down south in the Agricultural District
+- As we start to head off south with Severn and Shamshir in the lead, a bunch of Ganmion knights ride past us towards Weldor's farm, where a bunch of undead have been seen. Farmers started attacking each other?
+- We reach Weldor's Farm where there are random patches of decayed produce / plants
+- Sarfir & Balerion scout ahead and see a wounded knight of Lumos. The knights in the procession with the wyvern were traveling south and a green light from within a lockbox spread amongst, them, turning all into undead. Whoever gets killed by these undead turn into undead too. Captain Javarre sent this knight north to ask for reinforcements.
+- After the fight, we here an evil chuckle and Oathkeeper remembers the children's story of Blightkeeper Voth. The undead here seem related / caused by her.
+- We find a war chest in a secret compartment with around 10000g
+	- A guard sees this and orders someone to send word to Slate to expect a war chest. The Natural Ones are expected to deliver this war chest to Slate.

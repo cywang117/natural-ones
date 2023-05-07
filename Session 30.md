@@ -1,5 +1,6 @@
 
 - As we pass through town on the way back to Mountaintop Inn for BRAWL drinking contest, we hear about Weldor's farm's crop getting ruined. Everything was wilted as if it hadn't been taken care of for a few years, sabotage suspected
+	- Weldor is at the Mountaintop Inn drinking himself stupid
 - Vespor's Weave - elephant ear like confection, sold with a variety of toppings
 - BRAWL contest vs Hadoko Five (hailing from Fort Hadoko)
 	- Svalia
