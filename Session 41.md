@@ -30,3 +30,5 @@
 		- 12 adventurers in the Hall
 			- Balerion distracts the pretty half-elf woman companion of a weak-willed looking wizard, Quelix. The rough-looking man (Dugg) she's talking to tells Balerion to stop flirting and they start an argument.
 			- We task Quelix off to the side to gather info on Red Sarfir for 30g
+	- At the Haan Market:
+		- Oathkeeper & Sarfir gather info that Red Sarfir is hanging out with wayward youths in the Shorescale Forest
