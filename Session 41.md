@@ -35,3 +35,6 @@
 		- Oathkeeper & Sarfir gather info that Red Sarfir is hanging out with wayward youths in the Shorescale Forest. The vendor at the fish stall hands Oathkeeper a nice salted fish as a downpayment for bringing Red Sarfir to justice.
 - Back at The Three Sisters:
 	- We recollect what we've learned: Red Sarfir with youths in the Shorescale Forest
+	- Quelix returns with more info: the Netherbloom can be shaped by Lizardfolk song and is sensitive to sound
+	- We may be able to gather more info from Jessie who's playing cards tomorrow night at the Stern Mama
+	- Oathkeeper scouted the forest as a gyrfalcon 
