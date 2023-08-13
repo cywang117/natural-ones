@@ -43,4 +43,6 @@
 	- We paid 600g advance fee + 3 people's entry fees (Oathkeeper, Sarfir, Samira)
 	- 10g buy-in Royals -- kind of like blackjack. We play some rounds and find where Jessie is
 	- We find Jessie waiting for her next opponent at a table - younger woman, short dirty blonde hair, puffy blouse under a leather vest - pirate royalty
-		- Quivering Bow
+		- Quivering Bow - gnomish game. Each person rolls 1d10, roll between to take the pot
+		- Jessie will give us the info for a favor: her frenemy Red Rose took a weapon from Jessie. Small dagger with symbol of merfolk people; likely rusted; refinished; on Red Rose's ship, which is in Haan
+		- Netherbloom comes from the elemental plane of water
