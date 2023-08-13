@@ -37,4 +37,4 @@
 	- We recollect what we've learned: Red Sarfir with youths in the Shorescale Forest
 	- Quelix returns with more info: the Netherbloom can be shaped by Lizardfolk song and is sensitive to sound
 	- We may be able to gather more info from Jessie who's playing cards tomorrow night at the Stern Mama
-	- Oathkeeper scouted the forest as a gyrfalcon 
+	- Oathkeeper scouted the forest as a gyrfalcon and saw that 
