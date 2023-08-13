@@ -40,5 +40,5 @@
 	- Oathkeeper scouted the forest as a gyrfalcon and saw that Netherbloom was indeed spreading in the Shorescale Forest
 - Next night, at The Stern Mama:
 	- 100g entry to Orlop (name for the very bottom of a ship) which is where Jessie is playing cards. Casino type of place but with lots of influential people inside
-	- We paid 600g advance fee + 3 people's entry fees
+	- We paid 600g advance fee + 3 people's entry fees (Oathkeeper, Sarfir, Samira)
 	- 
