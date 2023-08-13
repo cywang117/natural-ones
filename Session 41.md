@@ -28,3 +28,5 @@
 			- Delivering a letter (Oathkeeper) to the Gullen Ruins - 500g
 			- Fetch one's dog from Ganmion back to Haan (Severn) - 500g
 		- 12 adventurers in the Hall
+			- Balerion distracts the pretty half-elf woman companion of a weak-willed looking wizard, Quelix. The rough-looking man (Dugg) she's talking to tells Balerion to stop flirting and they start an argument.
+			- Quelix 
