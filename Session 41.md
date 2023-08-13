@@ -7,5 +7,8 @@
 
 ## The Lady's Hammer
 - Oathkeeper, Sarfir, and Severn are at the Lady's Hammer
-- The Lady's Foundry is the blacksmith a few floors down
-- 
+- The Lady's Foundry is the blacksmithey a few floors down - cool blacksmith R(?)
+- Samira makes some oatmeal waiting for the party's return (plums & Xintrae'a in the Sarragnian style )
+- 3 courses of action:
+	- Investigate haunted monastery in Shorescale Forest
+	- Group of kobolds; aggression to the east (Hu)
