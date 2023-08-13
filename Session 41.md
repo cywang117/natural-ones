@@ -20,7 +20,7 @@
 	- Undead activity on Hunter's Islands
 	- Kobolds attacking locals to the south Faenra Bluffs
 		- Apparently dragons are only up to the North but the book I read was a conspiracy-type book
-- Before we leave on the shipment,
+- Before we leave with the shipment, we decided to find some info about Red Sarfir
 	- Wayward youth of Haan know about Red Evil Sarfir's activities and why he's wanted
 		- We can investigate in Haan at Wyrmsguard, Lady's Hammer, skyport, Haan Market, City Hall, Guild Hall
 	- At the Guild Hall:
@@ -30,5 +30,7 @@
 		- 12 adventurers in the Hall
 			- Balerion distracts the pretty half-elf woman companion of a weak-willed looking wizard, Quelix. The rough-looking man (Dugg) she's talking to tells Balerion to stop flirting and they start an argument.
 			- We task Quelix off to the side to gather info on Red Sarfir for 30g
+		- **Another rogueish woman in the corner, we paid her 75g for info about how to get rid of Netherbloom to get into Shorescale Forest. She says a younger woman named Jessie may know. Will be playing cards tomorrow night at The Stern Mama**
 	- At the Haan Market:
-		- Oathkeeper & Sarfir gather info that Red Sarfir is hanging out with wayward youths in the Shorescale Forest
+		- Oathkeeper & Sarfir gather info that Red Sarfir is hanging out with wayward youths in the Shorescale Forest. The vendor at the fish stall hands Oathkeeper a nice salted fish 
+- 
