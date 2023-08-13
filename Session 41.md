@@ -23,3 +23,8 @@
 - Before we leave on the shipment,
 	- Wayward youth of Haan know about Red Evil Sarfir's activities and why he's wanted
 		- We can investigate in Haan at Wyrmsguard, Lady's Hammer, skyport, Haan Market, City Hall, Guild Hall
+	- At the Guild Hall:
+		- Our quests are still there
+			- Delivering a letter (Oathkeeper) to the Gullen Ruins - 500g
+			- Fetch one's dog from Ganmion back to Haan (Severn) - 500g
+		- 12 adventurers in the Hall
