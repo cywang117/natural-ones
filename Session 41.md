@@ -42,5 +42,5 @@
 	- 100g entry to Orlop (name for the very bottom of a ship) which is where Jessie is playing cards. Casino type of place but with lots of influential people inside
 	- We paid 600g advance fee + 3 people's entry fees (Oathkeeper, Sarfir, Samira)
 	- 10g buy-in Royals -- kind of like blackjack. We play some rounds and find where Jessie is
-	- We find Jessie waiting for her next opponet at a table - younger woman, short dirty blonde hair, puffy blouse under a leather vest - pirate royalty
+	- We find Jessie waiting for her next opponent at a table - younger woman, short dirty blonde hair, puffy blouse under a leather vest - pirate royalty
 		- Quivering Bow
