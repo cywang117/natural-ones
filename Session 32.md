@@ -1,0 +1,33 @@
+- We have to return the war chest found in the back of the wagon after the undead wyvern fight :(
+	- Sarfir & Samira pawed some coins into the Bag of Holding before the Ganmion knights caught up to them
+- Severn has heard that the Bloodcoven is raiding ships and their next target is shipments from Ganmion to Haan by airship.
+	- We're going to stowaway on the airship and confront whoever is raiding. If we capture someone from the Bloodcoven, we may find out more info about to what degree the Bloodcoven has infiltrated the church (as Severn suspects)
+- Luck Run event
+	- a 20ft(?) log at an angle
+	- log covered in slime (fruit/veggie innnards)
+	- flags along the log
+	- you win the pot if you reach the top
+	- small rewards for each flag reached
+	- entry fee adds to pot
+	- Balerion has reached the 1st flag 4 times
+	- Sarfir has reached the 1st flag 7 times
+- Balerion goes to get his dagger (the one tied to rope) enchanted with lightning
+- We go to the Luck Run, around lunchtime:
+	- Rules: 
+		- 10% of pot for 1st flag
+		- 50% of pot for 2nd flag
+		- 100% of pot for 3rd flag
+		- No magic
+	- Oathkeeper rolls a 4 (+2 guidance) and makes it up a bit but falls before the first flag
+	- Severn rolls a nat 1 and doesn't even make it on the log
+	- Sarfir rolls a 23 and just reaches the first flag
+	- Balerion rolls a 21 and ninja runs 
+	- Oahkeeper rolls a 7
+	- Severn rolls a nat 20 and gets to the 3rd flag and wins the pot
+- After lunch, we are summoned to see the Watchers, Merek and Tael
+	- Mellaby's Watch, small clocktower in Crest Mountains. Merek's visions lead her to follow Ramona instead of us back when we went into the wardrobe and lead her to the clocktower. Tael and Merek lead a small group to check out the clocktower and found it abandoned with a broken wardrobe. This is good news because the number of wardrobes in existence is limited and more can't be made.
+	- Investigator Dullen from the Church of Lumos shows up and demands to know what happened in the battle. Dull clothes but well tailored, haughty manner. He leaves angry when he finds out that some coins from the warchest and the lockbox is empty. Believes the coins / things got lost in the battle with the undead wyvern. Says the church will be looking into this.
+- Shopping detour
+	- Church of Shroomos pamphlet from the shopkeepers at Elemental Armory (with the surfer dude(tte) siblings) - look into this
+- Lunch with Dorian, go over last notes from Simon 
+	- SEE SIGNAL NOTES TO SELF FOR COPY PASTE
