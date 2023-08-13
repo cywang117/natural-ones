@@ -37,4 +37,8 @@
 	- We recollect what we've learned: Red Sarfir with youths in the Shorescale Forest
 	- Quelix returns with more info: the Netherbloom can be shaped by Lizardfolk song and is sensitive to sound
 	- We may be able to gather more info from Jessie who's playing cards tomorrow night at the Stern Mama
-	- Oathkeeper scouted the forest as a gyrfalcon and saw that 
+	- Oathkeeper scouted the forest as a gyrfalcon and saw that Netherbloom was indeed spreading in the Shorescale Forest
+- Next night, at The Stern Mama:
+	- 100g entry to Orlop (name for the very bottom of a ship) which is where Jessie is playing cards. Casino type of place but with lots of influential people inside
+	- We paid 600g advance fee + 3 people's entry fees
+	- 
