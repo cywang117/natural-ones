@@ -32,5 +32,6 @@
 			- We task Quelix off to the side to gather info on Red Sarfir for 30g
 		- **Another rogueish woman in the corner, we paid her 75g for info about how to get rid of Netherbloom to get into Shorescale Forest. She says a younger woman named Jessie may know. Will be playing cards tomorrow night at The Stern Mama**
 	- At the Haan Market:
-		- Oathkeeper & Sarfir gather info that Red Sarfir is hanging out with wayward youths in the Shorescale Forest. The vendor at the fish stall hands Oathkeeper a nice salted fish 
-- 
+		- Oathkeeper & Sarfir gather info that Red Sarfir is hanging out with wayward youths in the Shorescale Forest. The vendor at the fish stall hands Oathkeeper a nice salted fish as a downpayment for bringing Red Sarfir to justice.
+- Back at The Three Sisters:
+	- We recollect what we've learned: Red Sarfir with youths in the Shorescale Forest
