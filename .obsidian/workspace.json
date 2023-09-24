@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8f65eaf8948bcf14",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session 45.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session 44.md",
+                "file": "Session 45.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session 44.md",
+                "file": "Session 45.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session 44.md"
+                "file": "Session 45.md"
               }
             }
           }
@@ -153,11 +166,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5f33318145ea6096",
+  "active": "8f65eaf8948bcf14",
   "lastOpenFiles": [
+    "Session 44.md",
+    "Session 45.md",
     "Session 39.md",
     "Session 41.md",
-    "Session 44.md",
     "Session 32.md",
     "Session 28.md",
     "Untitled 1.md",
