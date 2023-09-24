@@ -6,3 +6,4 @@
 	- Oathkeeper down the right side of the hallway
 	- Samira & Lyra at the door in the middle
 	- Sarfir & Balerion down the left side of the hallway
+- We fight a giant book that causes objects to fly around, and 2 spectres, emerald and lavender. The 2 spectres when knocked out turn into gems which are slotted into the book, resulting in a containment field
