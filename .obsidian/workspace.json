@@ -30,9 +30,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "092e7a4b878ce6c3",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.13"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -149,6 +159,16 @@
                 "file": "Session 45.md"
               }
             }
+          },
+          {
+            "id": "a44af2e225f0ab4c",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
           }
         ]
       }
@@ -166,7 +186,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8f65eaf8948bcf14",
+  "active": "092e7a4b878ce6c3",
   "lastOpenFiles": [
     "Session 44.md",
     "Session 45.md",
