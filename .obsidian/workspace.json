@@ -40,9 +40,19 @@
                 "currentVersion": "1.4.13"
               }
             }
+          },
+          {
+            "id": "690bc4216a644f18",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.14"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -186,7 +196,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "092e7a4b878ce6c3",
+  "active": "690bc4216a644f18",
   "lastOpenFiles": [
     "Session 44.md",
     "Session 45.md",
