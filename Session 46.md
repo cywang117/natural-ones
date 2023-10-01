@@ -1,0 +1,4 @@
+- The book that had arms coming out of it: a forest green book with a logo of of a tree with 2 trees behind it and a staff in the foreground. The number 13.
+	- We have another book like it but with the number 5, looted after the airship battle
+- Sentient ship repairs itself
+- 

@@ -32,27 +32,19 @@
             }
           },
           {
-            "id": "092e7a4b878ce6c3",
+            "id": "f2361617e6d37823",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.4.13"
-              }
-            }
-          },
-          {
-            "id": "690bc4216a644f18",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.14"
+                "file": "Session 46.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -126,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session 45.md",
+                "file": "Session 46.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session 45.md",
+                "file": "Session 46.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session 45.md"
+                "file": "Session 46.md"
               }
             }
           },
@@ -196,10 +188,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "690bc4216a644f18",
+  "active": "f2361617e6d37823",
   "lastOpenFiles": [
-    "Session 44.md",
     "Session 45.md",
+    "Session 46.md",
+    "Untitled",
+    "Session 44.md",
     "Session 39.md",
     "Session 41.md",
     "Session 32.md",
