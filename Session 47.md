@@ -1,0 +1,5 @@
+- Red Rose gives us a waterproof map
+	- a peninsula shaped like a dagger with 3 jagged rocks sketched on it
+	- From the rocks, stairs zigzagging down a cliff face to the entrance to Gull
+	- Entrance: giant slab held up by 4 pillars & a symbol of the empire of Gull
+- We're taking a smaller boat in the night to shore
