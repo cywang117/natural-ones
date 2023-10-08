@@ -3,3 +3,4 @@
 	- From the rocks, stairs zigzagging down a cliff face to the entrance to Gull
 	- Entrance: giant slab held up by 4 pillars & a symbol of the empire of Gull
 - We're taking a smaller boat in the night to shore
+- We sneak and navigate along the shore and come upon a Queensguard camp facing off against a Bloodcoven camp. The temple is in the middle of the 2 camps and both are trying to gain ground and ward the other off. Amethyst is in charge at the Queensguard camp, Slate previously lead a small group into the temple but hasn't come out.
