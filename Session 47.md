@@ -4,3 +4,6 @@
 	- Entrance: giant slab held up by 4 pillars & a symbol of the empire of Gull
 - We're taking a smaller boat in the night to shore
 - We sneak and navigate along the shore and come upon a Queensguard camp facing off against a Bloodcoven camp. The temple is in the middle of the 2 camps and both are trying to gain ground and ward the other off. Amethyst is in charge at the Queensguard camp, Slate previously lead a small group into the temple but hasn't come out.
+	- Amethyst tells us that the Queen has ordered the Queensguard to find the last artifact and bring it to Ganmion, keeping it out of the hands of the Bloodcoven. We don't know why the Queen would order this as this isn't what the Queensguard normally do.
+	- The Queensguard don't have a description of the artifact, don't know what they're looking for.
+- We agree for Amethyst & the Queensguard to create a distraction so we can get into the temple without the Bloodcoven noticing
