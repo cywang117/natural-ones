@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8403ff81c51b69e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024-01-06.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -130,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session 47.md",
+                "file": "2024-01-06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session 47.md",
+                "file": "2024-01-06.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session 47.md"
+                "file": "2024-01-06.md"
               }
             }
           },
@@ -202,11 +214,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ad87d7b12b1cf7f7",
+  "active": "8403ff81c51b69e3",
   "lastOpenFiles": [
+    "Session 47.md",
+    "2024-01-06.md",
     "Session 45.md",
     "Session 46.md",
-    "Session 47.md",
     "Session 25.md",
     "Untitled",
     "Session 44.md",
